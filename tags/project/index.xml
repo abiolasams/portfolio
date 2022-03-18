@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project on My blog</title>
+    <link>https://abiolasams.github.io/portfolio/tags/project/</link>
+    <description>Recent content in project on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Jul 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://abiolasams.github.io/portfolio/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Predicting Housing prices</title>
+      <link>https://abiolasams.github.io/portfolio/post/chapter-1/</link>
+      <pubDate>Sat, 10 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://abiolasams.github.io/portfolio/post/chapter-1/</guid>
+      <description>Utilizing linear Regression, Random Forest Regression, Elastic Net Regression and Stochastic Gradient Descent on the data. Comparing the R2_score for different models to compare performance. Data obtained from kaggle.   Link to Github repository</description>
+    </item>
+    
+  </channel>
+</rss>
